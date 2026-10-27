@@ -4,6 +4,7 @@ Todo sobre mí, mi formación y mis proyectos.
 # ¡Hola, soy Mario Zamorano! 👋
 
 🎓 Estudiante del **Doble Grado en Derecho y Economía** en la Universidad Rey Juan Carlos (URJC).  
+🌐 **Inglés: Nivel C1 (Avanzado)** | Español (Nativo).
 Apasionado por construir proyectos en la intersección entre la regulación jurídica, los mercados y la tecnología, combinando análisis riguroso y desarrollo asistido por Inteligencia Artificial.
 
 ---
