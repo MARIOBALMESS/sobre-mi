@@ -24,4 +24,4 @@ Apasionado por construir proyectos en la intersección entre la regulación jur�
 
 ### 📬 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/mario-zamorano-880405299/)
-- ✉️ [majazalo@icloud.com]
+- ✉️ majazalo@icloud.com
